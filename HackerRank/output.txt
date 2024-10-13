@@ -1,3 +1,1 @@
-Hello, World!
-cycle
-cycle
+6 4
