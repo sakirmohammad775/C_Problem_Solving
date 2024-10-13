@@ -7,7 +7,7 @@ int main() {
     // Read the input string
     scanf("%[^\n]", inputString);  // Read the whole line including spaces until a newline character is encountered
     
-    // Print the fixed output
+    
    
        // Print "Hello, World!"
     
